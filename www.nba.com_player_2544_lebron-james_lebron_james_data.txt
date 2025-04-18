@@ -1,0 +1,24 @@
+Player: Lebron James
+Team: Lakers
+
+[('points', ['LeBron, Luka, Austin Combine for 85 POINTS and Defeat Memphis', 'LeBron Puts Up 28 Points and 12 Rebounds Against the Clippers', 'LeBron James Dishes 33 Points, 17 Rebounds Versus Timberwolves', 'LeBron Goes for 27 Points Against the Mavericks (2/25/25)', 'LeBron Goes OFF for 40 Points Against the Trail Blazers (2/20/25)', 'LeBron James Goes for 24 Points Against the Jazz (2/10/25)', "James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets."]), ('rebounds', ['LeBron Puts Up 28 Points and 12 Rebounds Against the Clippers', 'LeBron James Dishes 33 Points, 17 Rebounds Versus Timberwolves', "James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets."]), ('assists', ["James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets."]), ('minutes', ['Limited to 22 minutes Friday', "James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets."])]--- POINTS ---
+LeBron, Luka, Austin Combine for 85 POINTS and Defeat Memphis
+LeBron Puts Up 28 Points and 12 Rebounds Against the Clippers
+LeBron James Dishes 33 Points, 17 Rebounds Versus Timberwolves
+LeBron Goes for 27 Points Against the Mavericks (2/25/25)
+LeBron Goes OFF for 40 Points Against the Trail Blazers (2/20/25)
+LeBron James Goes for 24 Points Against the Jazz (2/10/25)
+James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets.
+
+--- REBOUNDS ---
+LeBron Puts Up 28 Points and 12 Rebounds Against the Clippers
+LeBron James Dishes 33 Points, 17 Rebounds Versus Timberwolves
+James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets.
+
+--- ASSISTS ---
+James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets.
+
+--- MINUTES ---
+Limited to 22 minutes Friday
+James finished with 14 points (6-11 FG, 1-4 3Pt, 1-1 FT), four rebounds, eight assists and one steal in 22 minutes during Friday's 140-109 win over the Rockets.
+
